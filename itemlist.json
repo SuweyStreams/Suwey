@@ -1,12 +1,6 @@
 {
 	"items" : [
 	{
-		"abr": "acidant",
-		"price": 667,
-		"category": "Uncategorized",
-		"defname": "ACPAcidAnt"
-	},
-	{
 		"abr": "adrenalineribreplacement",
 		"price": 1333,
 		"category": "Bionics",
